@@ -1,0 +1,49 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red70\green49\blue18;\red53\green37\blue13;\red148\green0\blue36;
+\red146\green6\blue50;\red108\green107\blue102;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 I\cf2 \expnd0\expndtw0\kerning0
+ngredientes\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\partightenfactor0
+\ls1\ilvl0\cf3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+1 kg {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/tomates-maduros/"}}{\fldrslt \cf4 tomates maduros}}\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\partightenfactor0
+\ls1\ilvl0\cf3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+1 {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/cebolla-grande/"}}{\fldrslt \cf4 cebolla grande}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+4 {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/pimientos-verdes/"}}{\fldrslt \cf4 pimientos verdes}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+1 {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/pimiento-rojo/"}}{\fldrslt \cf4 pimiento rojo}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+2 {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/calabacines/"}}{\fldrslt \cf4 calabacines}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+1 {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/berenjena/"}}{\fldrslt \cf4 berenjena}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+ {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/aceite-de-oliva-ve/"}}{\fldrslt \cf4 aceite de oliva virgen extra}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+ {\field{\*\fldinst{HYPERLINK "http://www.recetasdemama.es/ingredient/sal/"}}{\fldrslt \cf4 sal}}\
+\pard\pardeftab720\sl480\sa200\partightenfactor0
+\cf5 Preparaci\'f3n\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl440\sa400\partightenfactor0
+\ls2\ilvl0\cf6 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+Se puede hacer de dos maneras distintas, haciendo la fritada de las distintas verduras por separado o bien hacer el sofrito a\'f1adiendo poco a poco las verduras a la sart\'e9n, de mas a menos duras.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl440\sa400\partightenfactor0
+\ls2\ilvl0\cf6 \kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+En cualquier caso, a mi me gusta hacer en primer lugar el tomate. Se pela, se limpia de semillas y se trocea, y en una sart\'e9n amplia se pone al fuego. Cuando pierde el agua, se a\'f1ade un poco de aceite, moviendo con cuidado de que no se pegue en el fondo. Cuando el tomate est\'e1 frito, se reserva. Es aconsejable tener una tapadera, para evitar las salpicaduras de tomate en la cocina.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+Si se hacen las verduras por separado, se pone una sart\'e9n en el fuego con aceite, y se fr\'ede a fuego suave la cebolla troceada. cuando se pone dorada, se retira y se reserva, y el mismo aceite se fr\'eden los pimientos verdes troceados, y luego los rojos. Luego se fr\'ede el calabac\'edn y la berenjena cortados a dados. \uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+Finalmente se mezcla todas las verduras con el tomate, se sazona con un poco de sal y listo para servir. Se puede tomar como plato \'fanico, o acompa\'f1ando carne o pescado, pero lo que mejor le sienta es un huevo frito.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+Como dec\'eda al principio, se puede hacer todo seguido: Se pone a fre\'edr la cebolla y mientras tanto se limpian de semillas y se trocean los pimientos. Cuando empieza a estar trasparente se a\'f1aden los pimientos. Y se sigue igual, mientras se hacen los pimientos, se trocea la berenjena. Cuando est\'e1n pochados, se a\'f1ade la berenjena, y por \'faltimo se a\'f1aden los calabacines. \uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
+Cuando est\'e1 hecha la fritada, se mezcla con el tomate se sazona con un poco de sal y se sirve. Incluso se pueden cuajar los huevos en la misma sart\'e9n, Se hace un hueco, se cascan los huevos y cuando est\'e1n bien hechos se retira del fuego.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
+Y cuando quiero volver a los sabores de la infancia, le a\'f1ado unas patatas cortadas a daditos y fritas.\uc0\u8232 \
+}
